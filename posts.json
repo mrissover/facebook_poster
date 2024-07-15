@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Post Title 1",
+    "content": "Hello, this is the content for post 1!",
+    "link": "https://example.com/post1",
+    "date": "2024-07-16T10:00:00Z"
+  },
+  {
+    "title": "Post Title 2",
+    "content": "Hello, this is the content for post 2!",
+    "link": "https://example.com/post2",
+    "date": "2024-07-17T12:00:00Z"
+  }
+]
